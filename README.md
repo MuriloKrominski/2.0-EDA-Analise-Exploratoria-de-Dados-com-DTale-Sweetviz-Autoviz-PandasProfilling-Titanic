@@ -1,3 +1,5 @@
+## Por: Murilo Krominski https://murilokrominski.github.io
+
 # Sweetviz - EDA (Exploratory Data Analysis) - Titanic
 
 Antes de trabalhar com seus dados, é importante conhece-los, e isso se torna fácil com uma EDA que usa bibliotecas Python.
