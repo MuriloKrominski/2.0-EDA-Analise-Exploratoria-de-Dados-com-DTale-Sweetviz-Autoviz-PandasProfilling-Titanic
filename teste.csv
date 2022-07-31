@@ -1,4 +1,4 @@
-"IdPassageiro,ClasseBilhete,""Nome"",Sexo,Idade,QtdConjuges&IrmaosEmbarcados,QtdPais&FilhosEmbarcados,NúmeroPassagem,PreçoPassagem,NúmeroCabine,PortoEmbarque"
+"IdPassageiro,ClasseBilhete,Nome,Sexo,Idade,QtdConjuges&IrmaosEmbarcados,QtdPais&FilhosEmbarcados,NumeroPassagem,PreÃ§oPassagem,NumeroCabine,PortoEmbarque"
 "892,3,""Kelly, Mr. James"",homem,34.5,0,0,330911,7.8292,,Q"
 "893,3,""Wilkes, Mrs. James (Ellen Needs)"",mulher,47,1,0,363272,7,,S"
 "894,2,""Myles, Mr. Thomas Francis"",homem,62,0,0,240276,9.6875,,Q"
