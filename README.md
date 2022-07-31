@@ -11,5 +11,7 @@ Sweetviz gera belas visualizações de alta densidade para iniciar o EDA com ape
 Além da análise detalhada de recursos, ele se destaca de outros pacotes EDA, fornecendo:
 
 **analyze() Análise de destino: mostra como um valor de destino (por exemplo, "Sobreviveu" no conjunto de dados do Titanic) se relaciona com outros recursos.
+
 **compare() Comparações de conjuntos de dados: por exemplo, "Treinamento vs Teste" e intra-set "Masculino vs Feminino".
+
 **compare_intra() Correlação/associações: integração completa de correlações e associações de dados numéricos e categóricos, tudo em um gráfico e tabela.
